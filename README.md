@@ -16,3 +16,4 @@
 互動方式
 
        system 透過 public Func 與 interface 的 private member 互動
+       實例        介面的成員函數                介面的物件（類別物件）
