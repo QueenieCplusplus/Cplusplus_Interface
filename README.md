@@ -16,7 +16,7 @@
 互動方式
 
        system 透過 public Func 與 interface 的 private member 互動
-       實例        介面（類別公有函數）           類別（私有）物件
+       實例        介面（類別公有函數）           實例（私有）物件
 
 >>>
 
