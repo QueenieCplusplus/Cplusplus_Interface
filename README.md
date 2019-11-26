@@ -5,10 +5,10 @@
 
 舉例來說，設計公有介面：
 
-interface 由成員函數構成，均為程式設計師所寫
+    interface 由成員函數構成，均為程式設計師所寫。
 
-public 指的是此類別的程式碼
+    public 指的是此類別的程式碼。
 
-system 是由此類別建構出的物件（即實例）
-
+    system interact with interface 是由此類別建構出的物件（即實例），能與介面互動。
+>>>
 
