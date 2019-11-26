@@ -10,5 +10,9 @@
     public 指的是此類別的程式碼。
 
     system interact with interface 是由此類別建構出的物件（即實例），能與介面互動。
+ 
 >>>
 
+互動方式
+
+       system 透過 public Func 與 interface 的 private member 互動
