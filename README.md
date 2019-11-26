@@ -7,7 +7,7 @@
 
     interface 由成員函數構成，均為程式設計師所寫。
 
-    public 指的是此類別的程式碼。
+    public 指的是此類別的程式碼，提供介面讓實例物件與類別程式碼溝通。
 
     system interact with interface 是由此類別建構出的物件（即實例），能與介面互動。
  
